@@ -1,0 +1,69 @@
+﻿body{
+    background-color: lemonchiffon;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+}
+h4{
+    text-align: center;
+}
+
+.bottom-div{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+
+}
+
+a:link{
+    color: dimgrey;
+    text-decoration: none;
+    text-align: center;
+    background-color: steelblue;
+    padding: 15px 20px 15px 20px;
+    display: inline-block;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: darkred;
+}
+
+a:active{
+    color: cornflowerblue;
+    background-color: darkcyan;
+}
+.top{
+    text-align: center;
+}
+
+.oatmeal {
+    margin-left: 300px;
+}
+
+.amazon {
+    margin-left: 685px;
+}
+
+.grind {
+    margin-left: 1020px;
+}
+.video{
+    position: relative;
+    width: 600px;
+    height: 400px;
+    border: 3px solid #18b74c;
+    left: 400px;
+}
+
+.hobbies{
+    position:absolute;
+    right: 30px;
+    bottom: 20px;
+}
